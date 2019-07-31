@@ -1,0 +1,17 @@
+.pagination {
+}
+
+.pagination__list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+  list-style: none;
+}
+
+.pagination__button {
+}
+.pagination__button.is-active {
+  background-color: #ff725c;
+  color: white;
+}
